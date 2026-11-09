@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.donutsmp.gambler.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChatListenerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
